@@ -53,6 +53,8 @@
 
 	<ItemGroup>
 		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="7.0.0" />
+		<PackageReference Include="SkiaSharp.Extended.Iconify.WeatherIcons" Version="5.0.0" />
+		<PackageReference Include="SkiaSharp.Extended.UI.Maui" Version="2.0.0-preview.86" />
 	</ItemGroup>
 
 	<ItemGroup>
@@ -62,6 +64,17 @@
 	  <None Remove="MVVM\Views\" />
 	  <None Remove="Resources\Fonts\Rubik-Light.ttf" />
 	  <None Remove="Resources\Fonts\Rubik-Regular.ttf" />
+	  <None Remove="Resources\Raw\foggy.json" />
+	  <None Remove="Resources\Raw\mist.json" />
+	  <None Remove="Resources\Raw\partly-cloudy.json" />
+	  <None Remove="Resources\Raw\partly-shower.json" />
+	  <None Remove="Resources\Raw\snow-sunny.json" />
+	  <None Remove="Resources\Raw\snow.json" />
+	  <None Remove="Resources\Raw\storm.json" />
+	  <None Remove="Resources\Raw\stormshowersday.json" />
+	  <None Remove="Resources\Raw\sunny.json" />
+	  <None Remove="Resources\Raw\thunder.json" />
+	  <None Remove="Resources\Raw\windy.json" />
 	</ItemGroup>
 	<ItemGroup>
 	  <Folder Include="MVVM\" />
@@ -72,5 +85,16 @@
 	<ItemGroup>
 	  <BundleResource Include="Resources\Fonts\Rubik-Light.ttf" />
 	  <BundleResource Include="Resources\Fonts\Rubik-Regular.ttf" />
+	  <BundleResource Include="Resources\Raw\foggy.json" />
+	  <BundleResource Include="Resources\Raw\mist.json" />
+	  <BundleResource Include="Resources\Raw\partly-cloudy.json" />
+	  <BundleResource Include="Resources\Raw\partly-shower.json" />
+	  <BundleResource Include="Resources\Raw\snow-sunny.json" />
+	  <BundleResource Include="Resources\Raw\snow.json" />
+	  <BundleResource Include="Resources\Raw\storm.json" />
+	  <BundleResource Include="Resources\Raw\stormshowersday.json" />
+	  <BundleResource Include="Resources\Raw\sunny.json" />
+	  <BundleResource Include="Resources\Raw\thunder.json" />
+	  <BundleResource Include="Resources\Raw\windy.json" />
 	</ItemGroup>
 </Project>

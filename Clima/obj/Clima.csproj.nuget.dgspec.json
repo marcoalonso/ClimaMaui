@@ -74,6 +74,14 @@
               "version": "[7.0.101, )",
               "autoReferenced": true
             },
+            "SkiaSharp.Extended.Iconify.WeatherIcons": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "SkiaSharp.Extended.UI.Maui": {
+              "target": "Package",
+              "version": "[2.0.0-preview.86, )"
+            },
             "Xamarin.Android.Glide": {
               "target": "Package",
               "version": "[4.13.2.2, )",
@@ -186,6 +194,14 @@
               "target": "Package",
               "version": "[7.0.101, )",
               "autoReferenced": true
+            },
+            "SkiaSharp.Extended.Iconify.WeatherIcons": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "SkiaSharp.Extended.UI.Maui": {
+              "target": "Package",
+              "version": "[2.0.0-preview.86, )"
             }
           },
           "imports": [
@@ -244,6 +260,14 @@
               "target": "Package",
               "version": "[7.0.101, )",
               "autoReferenced": true
+            },
+            "SkiaSharp.Extended.Iconify.WeatherIcons": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "SkiaSharp.Extended.UI.Maui": {
+              "target": "Package",
+              "version": "[2.0.0-preview.86, )"
             }
           },
           "imports": [

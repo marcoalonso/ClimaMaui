@@ -1,4 +1,45 @@
-﻿<Properties StartupConfiguration="{9E8712B5-2746-4D5B-AC28-9994CEC1A499}|Default">
+﻿<Properties StartupConfiguration="{9E8712B5-2746-4D5B-AC28-9994CEC1A499}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.3E3B1605-B55A-49AB-8CAD-E3E244914FAE" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Clima FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Clima/MVVM/Views/WeatherView.xaml">
+    <Files>
+      <File FileName="Clima/MainPage.xaml.cs" />
+      <File FileName="Clima/MainPage.xaml" Line="1" Column="1" />
+      <File FileName="Clima/MVVM/Views/WeatherView.xaml" Line="5" Column="14" />
+      <File FileName="Clima/MVVM/ViewModels/WeatherViewModel.cs" Line="1" Column="1" />
+      <File FileName="Clima/MVVM/Views/WeatherView.xaml.cs" Line="10" Column="43" />
+      <File FileName="Clima/App.xaml.cs" Line="11" Column="29" />
+      <File FileName="Clima/Resources/Styles/Colors.xaml" Line="43" Column="1" />
+      <File FileName="Clima/Resources/Styles/Styles.xaml" Line="2" Column="1" />
+      <File FileName="Clima/Resources/Styles/AppStyles.xaml" Line="21" Column="53" />
+      <File FileName="Clima/AppShell.xaml" Line="1" Column="1" />
+      <File FileName="Clima/AppShell.xaml.cs" Line="1" Column="1" />
+      <File FileName="Clima/App.xaml" Line="17" Column="1" />
+      <File FileName="Clima/MauiProgram.cs" Line="9" Column="41" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Clima" expanded="True">
+            <Node name="Clima" selected="True">
+              <Node name="MVVM">
+                <Node name="ViewModels" expanded="True" />
+              </Node>
+              <Node name="Resources">
+                <Node name="Fonts" expanded="True" />
+                <Node name="Raw" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+              <Node name="AppShell.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Clima PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.3E3B1605-B55A-49AB-8CAD-E3E244914FAE" />
 </Properties>

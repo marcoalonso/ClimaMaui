@@ -9,6 +9,16 @@
 /Users/marcoalonsorodriguez/Desktop/MauiProjects/Clima/Clima/bin/Debug/net7.0-ios/iossimulator-x64/publish/../Clima.app/Microsoft.Extensions.Options.dll
 /Users/marcoalonsorodriguez/Desktop/MauiProjects/Clima/Clima/bin/Debug/net7.0-ios/iossimulator-x64/publish/../Clima.app/Microsoft.Extensions.Primitives.dll
 /Users/marcoalonsorodriguez/Desktop/MauiProjects/Clima/Clima/bin/Debug/net7.0-ios/iossimulator-x64/publish/../Clima.app/Microsoft.Maui.Graphics.dll
+/Users/marcoalonsorodriguez/Desktop/MauiProjects/Clima/Clima/bin/Debug/net7.0-ios/iossimulator-x64/publish/../Clima.app/SkiaSharp.dll
+/Users/marcoalonsorodriguez/Desktop/MauiProjects/Clima/Clima/bin/Debug/net7.0-ios/iossimulator-x64/publish/../Clima.app/SkiaSharp.Extended.dll
+/Users/marcoalonsorodriguez/Desktop/MauiProjects/Clima/Clima/bin/Debug/net7.0-ios/iossimulator-x64/publish/../Clima.app/SkiaSharp.Extended.Iconify.dll
+/Users/marcoalonsorodriguez/Desktop/MauiProjects/Clima/Clima/bin/Debug/net7.0-ios/iossimulator-x64/publish/../Clima.app/SkiaSharp.Extended.Iconify.WeatherIcons.dll
+/Users/marcoalonsorodriguez/Desktop/MauiProjects/Clima/Clima/bin/Debug/net7.0-ios/iossimulator-x64/publish/../Clima.app/SkiaSharp.Extended.UI.dll
+/Users/marcoalonsorodriguez/Desktop/MauiProjects/Clima/Clima/bin/Debug/net7.0-ios/iossimulator-x64/publish/../Clima.app/SkiaSharp.SceneGraph.dll
+/Users/marcoalonsorodriguez/Desktop/MauiProjects/Clima/Clima/bin/Debug/net7.0-ios/iossimulator-x64/publish/../Clima.app/SkiaSharp.Skottie.dll
+/Users/marcoalonsorodriguez/Desktop/MauiProjects/Clima/Clima/bin/Debug/net7.0-ios/iossimulator-x64/publish/../Clima.app/SkiaSharp.Views.iOS.dll
+/Users/marcoalonsorodriguez/Desktop/MauiProjects/Clima/Clima/bin/Debug/net7.0-ios/iossimulator-x64/publish/../Clima.app/SkiaSharp.Views.Maui.Controls.dll
+/Users/marcoalonsorodriguez/Desktop/MauiProjects/Clima/Clima/bin/Debug/net7.0-ios/iossimulator-x64/publish/../Clima.app/SkiaSharp.Views.Maui.Core.dll
 /Users/marcoalonsorodriguez/Desktop/MauiProjects/Clima/Clima/bin/Debug/net7.0-ios/iossimulator-x64/publish/../Clima.app/Clima.dll
 /Users/marcoalonsorodriguez/Desktop/MauiProjects/Clima/Clima/bin/Debug/net7.0-ios/iossimulator-x64/publish/../Clima.app/Microsoft.CSharp.dll
 /Users/marcoalonsorodriguez/Desktop/MauiProjects/Clima/Clima/bin/Debug/net7.0-ios/iossimulator-x64/publish/../Clima.app/Microsoft.VisualBasic.Core.dll
