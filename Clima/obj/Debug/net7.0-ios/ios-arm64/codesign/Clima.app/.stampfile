@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign 95457E39A069D8C0250DDAAEF217DF8D309FBF29 --entitlements /Users/marcoalonsorodriguez/Desktop/MauiProjects/Clima/Clima/obj/Debug/net7.0-ios/ios-arm64/Entitlements.xcent /Users/marcoalonsorodriguez/Desktop/MauiProjects/Clima/Clima/bin/Debug/net7.0-ios/ios-arm64/Clima.app
